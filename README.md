@@ -1,2 +1,2 @@
 # GoodBoy-Bot
-Your own good bot
+Your own good bot;)
